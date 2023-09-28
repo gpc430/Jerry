@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jerry's blog
+title: Jerry's blog
 author: Peicheng(Jerry) Gu
 ---
 
