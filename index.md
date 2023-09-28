@@ -1,5 +1,5 @@
 ---
-title: Peicheng Gu
+title: Home
 author: Peicheng Gu
 ---
 
