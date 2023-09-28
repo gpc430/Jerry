@@ -42,3 +42,6 @@ Task 4.6: Save the trained model to disk.
 (7) Convolutional Neural Network  
 
 Task 4.7: Summarize the classification accuracy into the following table (Pandas dataframe is recommended)
+
+Part II:  Deploy the machine learning models on Gradio or huggingface
+
